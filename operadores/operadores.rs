@@ -53,13 +53,14 @@ enrollment: ITI
          }
     }
     
-    //en esta funcion se comprobara el operador logico 
+    //en esta funcion se comprobara el operador logico o exclusivo
     fn funcionY(){
         let booleanos = [false, true]; //este es el arreglo que se define los valores booleanos mas no strings
          println!("x\ty\tx and y");
          for x in &booleanos{
                for y in &booleanos{
-                    print!("{}",x);  print!("\t{}", y);  println!("\t{}\n",x^y);
+                    print!("{}",x);  print!("\t{}", y);  println!("\t{}\n",x^y); /*el operador logico ^ (o exclusivo) informara al programa si alguno 
+             es verdadero y la salida sera verdadero unicamente si y solo si uno es verdadero y no ambos*/
                }
                 
          }
