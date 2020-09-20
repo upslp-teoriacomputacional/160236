@@ -10,7 +10,7 @@ los operadores que se usan son los logicos no los operadores de union o los de i
 
 se usaron
 
-| or  define si uno u otro es verdadero, su salida sera verdadera
-& and define si ambos son verdadero, su salida sera verdadera
-! not definira el valor inverso de lo que se tiene
+| or  define si uno u otro es verdadero, su salida sera verdadera  // 
+& and define si ambos son verdadero, su salida sera verdadera // 
+! not definira el valor inverso de lo que se tiene //
 ^ o exclusivo dira si uno y solo uno es verdadero, su salida sera verdadero
