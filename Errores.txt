@@ -1,0 +1,4 @@
+Errores en codigo:
+$rustc -o main *.rs
+warning: function `funcionOr` should have a snake case name such as `funcion_or`
+  --> main.rs:23:5
