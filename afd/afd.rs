@@ -1,3 +1,12 @@
+/*
+Conjuntos en rust 
+name and surname Alexis Antonio Balderas Aguirre
+major: 160236 
+speciality professor: Juan Carlos González Ibarra
+institution: Universidad Politécnica de SLP
+enrollment: ITI
+*/
+
 //Definimos la funcion caracter 
 fn caracter(character: char) -> char{
     let simbolo="";
