@@ -1,5 +1,5 @@
 /*
-Conjuntos en rust 
+AFD en rust 
 name and surname Alexis Antonio Balderas Aguirre
 major: 160236 
 speciality professor: Juan Carlos González Ibarra
