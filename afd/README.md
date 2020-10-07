@@ -1,6 +1,6 @@
 El siguiente documento fue hecho en : https://paiza.io/es
 
-Se tuvieron errores al crear las variables globales, por ello, el programa no funciona
+Se tuvieron errores al intentar compilar en VS code y el compilador anterior no detecta las entradas por teclado
 
 
 if character == '0' || character == '1' || character == '2' || character == '3' || character == '4' || character == '5' || character == '6' || character == '7' || character == '8' || character == '9' {
