@@ -9,7 +9,7 @@ let  source_code = "int result = 1;".split(" "); <--- transforma de una cadena a
 Se definen los tipos de valores que pueden ingresar
 let types: [&str; 3] = ["str", "int", "bool"];
 
-En este punto se crean las expresiones regulares y el unwra
+En este punto se crean las expresiones regulares
 let digito = Regex::new(r"[0-9]").unwrap();
 let letras1 = Regex::new(r"[a-z]").unwrap();
 let letras2 = Regex::new(r"[A-Z]").unwrap();
