@@ -73,7 +73,7 @@ fn main(){
     let mut cadena= String::new(); //cadena a leer
     let mut q0: i32 = 0; //estado inicial
     let mut stack: Vec<char> = Vec::new(); //pila
-    let mut pop: bool = 0; //controlador de la pila
+    let mut pop: i32 = 0; //controlador de la pila
     let mut simbolo: String = "".to_string(); //lo que lee el automata
 
     println!("+-------------------------------------+
